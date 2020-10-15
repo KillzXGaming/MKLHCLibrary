@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKLHCLibrary", "MKLHCLibrary\MKLHCLibrary.csproj", "{89421933-CDBC-4205-9EE3-CFB4CFA524C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKLHC.TextureExporter", "MKLHC.TextureExporter\MKLHC.TextureExporter.csproj", "{AF1AFBA4-32C2-4430-8995-54E1BC9278CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89421933-CDBC-4205-9EE3-CFB4CFA524C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89421933-CDBC-4205-9EE3-CFB4CFA524C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89421933-CDBC-4205-9EE3-CFB4CFA524C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89421933-CDBC-4205-9EE3-CFB4CFA524C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1AFBA4-32C2-4430-8995-54E1BC9278CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1AFBA4-32C2-4430-8995-54E1BC9278CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1AFBA4-32C2-4430-8995-54E1BC9278CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1AFBA4-32C2-4430-8995-54E1BC9278CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74400FD-6A5E-442E-BDBD-736DB09966D2}
+	EndGlobalSection
+EndGlobal
