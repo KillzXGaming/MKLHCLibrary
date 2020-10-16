@@ -29,7 +29,7 @@ namespace MKLHC.TextureExporter
             {
                 if (Directory.Exists(arg))
                 {
-                    foreach (var f in Directory.GetFiles("Textures"))
+                    foreach (var f in Directory.GetFiles(arg))
                         OpenFile(f, useDDS);
                 }
                 else
